@@ -10,7 +10,6 @@
 ## Порядок запуска тестов:
 * Клонировать проект используя команду "$ git clone https://github.com/bigsurmoon/petApiTest" 
 * Открыть проект в IDE (напр. [IntelliJ IDEA](https://www.jetbrains.com/ru-ru/idea/) или [Aqua](https://www.jetbrains.com/aqua/))
-* Собрать проект: mvn clean install
 * Запуск тестов: mvn test
 * Генерация Allure отчета: mvn allure:serve
 
